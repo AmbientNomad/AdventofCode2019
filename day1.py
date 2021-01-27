@@ -20,3 +20,6 @@ Part2 = sum(additional_fuel(EachModule, 0) for EachModule in modules)
 
 print(f"Part 1: {Part1}")
 print(f"Part 2: {Part2}")
+
+# Part 1: 3434390
+# Part 2: 5148724
